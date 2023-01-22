@@ -1,8 +1,10 @@
 package com.velocity;
 
-public class Code5 {
+public class C {
+
 	public static void main(String[] args) {
-	System.out.println("hello");
-}
+		System.out.println("welcome");
+
+	}
 
 }
